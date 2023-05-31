@@ -1,1 +1,3 @@
 # useful_materials_for_research
+## julius_wrapper.ipynb
+JuliusをPythonから使用してセグメンテーションするスクリプト
