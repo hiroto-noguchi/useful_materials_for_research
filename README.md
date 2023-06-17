@@ -1,3 +1,4 @@
 # useful_materials_for_research
 ## julius_wrapper.ipynb
 JuliusをPythonから使用してセグメンテーションするスクリプト
+(Safariではメモリーエラーで動作しない場合があります。他のブラウザの使用を推奨します。)
