@@ -8,4 +8,4 @@ OpenAIのWhisperをGUI操作で使用できるようにしたスクリプト
 (Safariではメモリーエラーで動作しない場合があります。他のブラウザの使用を推奨します。)
 
 ## whisper(pickle_files)_to_textgrid.ipynb
-whisper.ipynbで生成したpickleファイルから、Montreal Forced Aligner(https://montreal-forced-aligner.readthedocs.io/en/latest/)のinput用TextGridファイルを作成するスクリプト
+whisper.ipynbで生成したpickleファイルから、Montreal Forced Alignerのinput用TextGridファイルを作成するスクリプト
