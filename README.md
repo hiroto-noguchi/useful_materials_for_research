@@ -9,3 +9,6 @@ OpenAIのWhisperをGUI操作で使用できるようにしたスクリプト
 
 ## whisper(pickle_files)_to_textgrid.ipynb
 whisper.ipynbで生成したpickleファイルから、Montreal Forced Alignerのinput用TextGridファイルを作成するスクリプト
+
+## csv_to_textgrid.ipynb
+CSVファイルからTextGridファイルを作成するスクリプト
